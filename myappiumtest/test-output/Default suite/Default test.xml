@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Pengyuans-MacBook-Air.local" name="com.myappiumtest.AppTest2" tests="1" failures="0" timestamp="3 May 2017 05:10:56 GMT" time="66.824" errors="0">
+  <testcase name="funLocationAccess" time="23.47" classname="com.myappiumtest.AppTest2"/>
+</testsuite>
